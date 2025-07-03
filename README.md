@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Hithallo Sousa Santos
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudandom Python e React
+- 🌱 Estudando Python e React
 - 📫 Contate-me no email: hithallosantos@gmail.com
 - 😄 Pronome: ele/dele
 
